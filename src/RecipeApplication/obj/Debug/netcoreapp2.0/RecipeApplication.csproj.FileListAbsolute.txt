@@ -1,0 +1,12 @@
+/root/RecipeApplication/src/RecipeApplication/bin/Debug/netcoreapp2.0/RecipeApplication.deps.json
+/root/RecipeApplication/src/RecipeApplication/bin/Debug/netcoreapp2.0/RecipeApplication.runtimeconfig.json
+/root/RecipeApplication/src/RecipeApplication/bin/Debug/netcoreapp2.0/RecipeApplication.runtimeconfig.dev.json
+/root/RecipeApplication/src/RecipeApplication/bin/Debug/netcoreapp2.0/RecipeApplication.dll
+/root/RecipeApplication/src/RecipeApplication/bin/Debug/netcoreapp2.0/RecipeApplication.pdb
+/root/RecipeApplication/src/RecipeApplication/obj/Debug/netcoreapp2.0/RecipeApplication.csprojAssemblyReference.cache
+/root/RecipeApplication/src/RecipeApplication/obj/Debug/netcoreapp2.0/RecipeApplication.csproj.CoreCompileInputs.cache
+/root/RecipeApplication/src/RecipeApplication/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/root/RecipeApplication/src/RecipeApplication/obj/Debug/netcoreapp2.0/RecipeApplication.AssemblyInfoInputs.cache
+/root/RecipeApplication/src/RecipeApplication/obj/Debug/netcoreapp2.0/RecipeApplication.AssemblyInfo.cs
+/root/RecipeApplication/src/RecipeApplication/obj/Debug/netcoreapp2.0/RecipeApplication.dll
+/root/RecipeApplication/src/RecipeApplication/obj/Debug/netcoreapp2.0/RecipeApplication.pdb

@@ -1,0 +1,17 @@
+/root/RecipeApplication/test/RecipeApplication.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/root/RecipeApplication/test/RecipeApplication.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/root/RecipeApplication/test/RecipeApplication.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/root/RecipeApplication/test/RecipeApplication.Tests/bin/Debug/netcoreapp2.0/RecipeApplication.Tests.deps.json
+/root/RecipeApplication/test/RecipeApplication.Tests/bin/Debug/netcoreapp2.0/RecipeApplication.Tests.runtimeconfig.json
+/root/RecipeApplication/test/RecipeApplication.Tests/bin/Debug/netcoreapp2.0/RecipeApplication.Tests.runtimeconfig.dev.json
+/root/RecipeApplication/test/RecipeApplication.Tests/bin/Debug/netcoreapp2.0/RecipeApplication.Tests.dll
+/root/RecipeApplication/test/RecipeApplication.Tests/bin/Debug/netcoreapp2.0/RecipeApplication.Tests.pdb
+/root/RecipeApplication/test/RecipeApplication.Tests/bin/Debug/netcoreapp2.0/RecipeApplication.dll
+/root/RecipeApplication/test/RecipeApplication.Tests/bin/Debug/netcoreapp2.0/RecipeApplication.pdb
+/root/RecipeApplication/test/RecipeApplication.Tests/obj/Debug/netcoreapp2.0/RecipeApplication.Tests.csprojAssemblyReference.cache
+/root/RecipeApplication/test/RecipeApplication.Tests/obj/Debug/netcoreapp2.0/RecipeApplication.Tests.csproj.CoreCompileInputs.cache
+/root/RecipeApplication/test/RecipeApplication.Tests/obj/Debug/netcoreapp2.0/RecipeApplication.Tests.AssemblyInfoInputs.cache
+/root/RecipeApplication/test/RecipeApplication.Tests/obj/Debug/netcoreapp2.0/RecipeApplication.Tests.AssemblyInfo.cs
+/root/RecipeApplication/test/RecipeApplication.Tests/obj/Debug/netcoreapp2.0/RecipeApplication.Tests.csproj.CopyComplete
+/root/RecipeApplication/test/RecipeApplication.Tests/obj/Debug/netcoreapp2.0/RecipeApplication.Tests.dll
+/root/RecipeApplication/test/RecipeApplication.Tests/obj/Debug/netcoreapp2.0/RecipeApplication.Tests.pdb

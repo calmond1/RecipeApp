@@ -1,0 +1,26 @@
+﻿using System;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+
+namespace RecipeApplication.Data
+{
+    public class AppDbContext : IdentityDbContext<ApplicationUser>
+    {
+        public AppDbContext(DbContextOptions<AppDbContext> options) 
+            : base(options)
+        {
+		try
+		{
+			Database.Migrate();
+		}
+		catch(Exception ex)
+		{
+		}
+        }
+
+        public DbSet<Recipe> Recipes { get; set; }
+    }
+}
+
