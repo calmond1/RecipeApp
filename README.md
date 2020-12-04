@@ -1,2 +1,2 @@
 # RecipeApp
-DotNetCore In Action Recipe App used for CI/CD demo
+ASP.Net Core In Action Recipe App used for CI/CD demo
