@@ -1,4 +1,4 @@
-FROM microsoft/dotnet:5.0-sdk AS build
+FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 COPY RecipeApplication/*.csproj ./app/RecipeApplication/
 WORKDIR /app/RecipeApplication
 RUN dotnet restore
@@ -13,7 +13,7 @@ RUN dotnet restore
 COPY RecipeApplication/. ./
 RUN dotnet publish -o out /p:PublishWithAspNetCoreTargetManifest="false"
 
-FROM microsoft/dotnet:5.0-runtime AS runtime
+FROM mcr.microsoft.com/dotnet/aspnet:5.0 AS runtime
 ENV ASPNETCORE_URLS http://+:80
 WORKDIR /app
 COPY --from=build /app/RecipeApplication/out ./

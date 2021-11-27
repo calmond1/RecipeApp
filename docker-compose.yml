@@ -15,7 +15,6 @@ services:
                         - recipe:recipe
                 ports:
                         - "80:80"
-                        - "443:443"
         recipe:
                 build: .
                 ports:
