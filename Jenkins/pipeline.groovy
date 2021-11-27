@@ -9,13 +9,13 @@ pipeline {
         }
         stage('Docker Build'){
 			steps{
-				sh 'cd src; /usr/local/bin/docker-compose build'
+				sh '/usr/local/bin/docker-compose build'
 			}
         }
         stage('Docker Up'){
 			steps{
-				sh 'cd src; /usr/local/bin/docker-compose down'
-				sh 'cd src; /usr/local/bin/docker-compose up -d'
+				sh '/usr/local/bin/docker-compose down'
+				sh '/usr/local/bin/docker-compose up -d'
 			}
         }
     }
